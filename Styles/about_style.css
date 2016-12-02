@@ -1,0 +1,32 @@
+#intro{
+    width: 750px;
+    height: auto;
+    color: #CC004D;
+    margin: auto;
+    font-size: 18px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+
+.highlight{
+    font-size: 28px;
+    color: white;
+}
+
+.emphasize{
+    font-size: 48px;
+    font-weight: bold;
+}
+
+#title{
+    width: auto;
+    height: auto;
+    margin-left: 150px;
+    padding-top: 110px;
+}
+#graphic{
+    width: 675px;
+    height: 350px;
+    margin-top: 15px;
+}

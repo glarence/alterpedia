@@ -1,0 +1,24 @@
+.galleryimg{
+    height: auto;
+    width:auto;
+    margin: 0px auto;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+#mjpeat{
+    height: 480px;
+    width: 384px;
+}
+
+#mjretired{
+    height: 300px;
+    width: 400px;
+}
+
+#video{
+    width: 640px;
+    height: 360px;
+    margin-left: 180px;
+    margin-bottom: 70px;
+}

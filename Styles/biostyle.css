@@ -1,0 +1,66 @@
+#profilecontainer{
+    margin-top: 30px;
+    margin-left: 30px;
+    border: solid 5px #E4B7FF;
+    height: auto;
+    width: 450px;
+    float: left;
+}
+
+#title{
+    font-size: 48px;
+    padding: 5px;
+    color: white;
+    text-align: center;
+}
+
+.imgcont{
+    height: auto;
+    width: auto;
+}
+
+#profileimgcont{
+    text-align: center;
+    margin: 8px;
+}
+
+#profileimg{
+    height: 478px;
+    width: 313px;
+}
+
+#profileinfo{
+    padding-left: 10px;
+    margin: 10px;
+    width: 400px;
+    height: auto;
+    color: white;
+    font-size: 14px;
+}
+
+#introduction{
+    width: 400px;
+    height: auto;
+    color: #CC004D;
+    font-size: 14px;
+    margin: 45px;
+    float: right;
+}
+
+.emphasize{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#missing{
+    color: white;
+}
+
+#couldve{
+    font-size: 24px;
+}
+
+a {
+    text-decoration: none;
+    color: #00DBFF;
+}

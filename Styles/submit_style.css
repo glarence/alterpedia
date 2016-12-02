@@ -1,0 +1,10 @@
+#form{
+    margin: auto;
+    width: 750px;
+    height: auto;
+    padding-top: 100px;
+}
+.label{
+    font-size: 24px;
+    color: #CC004D;
+}
